@@ -5,7 +5,8 @@
 
 - Written by Sandeepa Kannangara, University of New South Wales, s.kannangara@unsw.edu.au, part of code is from http://gibbslda.sourceforge.net/.
 
-- This is a Java implementation of the joint sentiment-issue-stance (JSIS) model for sentiment, issue and stance classification and extracting stance, issue and sentiment topics from text copara.
+- This is a Java implementation of the joint sentiment-issue-stance (JSIS) model for sentiment, issue and stance classification and extracting stance, issue and sentiment topics from text copara. Refer following publications related to this code
+http://unsworks.unsw.edu.au/fapi/datastream/unsworks:62271/SOURCE02?view=true
 
 ## Parameter Estimation ##
 
